@@ -23,7 +23,7 @@
     "lab:scaffold": "tsx scripts/scaffold-lab.ts"
   },
   "dependencies": {
-    "@clack/prompts": "^0.11.0",
+    "@clack/prompts": "^1.0.0",
     "commander": "^14.0.0",
     "fs-extra": "^11.3.0",
     "picocolors": "^1.1.1",
